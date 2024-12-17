@@ -1,8 +1,5 @@
 # Expense-Tracker
-A DBMS project for tracking expenses, built with XAMPP, PHP, HTML, and SQL.
-# Finance Tracker System (FTS)  
-
-A database-driven expense management system developed as part of a DBMS curriculum. The project allows users to track and analyze expenses with a front-end interface and a robust SQL database.  
+A DBMS project for tracking expenses, built with XAMPP, PHP, HTML, and SQL. The project allows users to track and analyze expenses with a front-end interface and a robust SQL database.  
 
 ---
 
